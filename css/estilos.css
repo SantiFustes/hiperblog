@@ -14,7 +14,7 @@ body{
     color:white;
     font-weight: bold;
     margin:0;
-    padding:05em;
+    padding:0.5em;
 }
 
 #cabecera #tagline
@@ -26,7 +26,7 @@ body{
 
 #container{
     width:70%;
-    padding:1em;
+    padding:0;
     text-align:left;
     border:1px solid rgb(112, 106, 106);
     margin:0 auto;
