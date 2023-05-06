@@ -1,6 +1,6 @@
 body{
     background-color: rgb(51, 50, 50);
-    color:#353333;
+    color:#fafafa;
     text-align:center;
     font-family: "Courier";
     font-size:16px;
@@ -40,13 +40,19 @@ body{
     margin: 0 auto;
 }
 
-#container
+#container h1
 {
     font-size:20px;
 }
 
 #post
 {
-    background-color: white;
     padding:1em;
+}
+
+#footer
+{
+    background-color: #777;
+    color:white;
+    text-align:center;
 }
